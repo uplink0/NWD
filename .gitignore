@@ -1,0 +1,19 @@
+# Конфигурация MediaWiki с паролями
+LocalSettings.php
+
+# Данные Grafana (если появятся локально)
+grafana_data/
+
+# Данные Prometheus (если появятся локально)
+prometheus_data/
+
+# Тома Docker (если вдруг прокинешь локально)
+db_data/
+mediawiki_data/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
