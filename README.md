@@ -112,6 +112,7 @@ grafana_data — настройки и дашборды Grafana
 
 bash
 docker compose down -v
+
 Структура проекта
 text
 NWD/
